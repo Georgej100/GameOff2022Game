@@ -1,2 +1,2 @@
 # Projects
-This is where I'll be uploading all my projects and prototypes
+This is where I'll upload the game code and assets for my Game Off 2022 Game
