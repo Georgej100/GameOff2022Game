@@ -1,3 +1,7 @@
-# Project
-This is where I'll upload the game code and assets for my Game Off 2022 Game
-I'll post more about my game once I upload it
+Dont judge a book by its cover is game where you dont know whats coming you way.
+
+Notes:
+I tryed to add all of my files but I couldn't add the text mesh pro file, so just imagine its there.
+This games controls use WASD and the space bar
+
+Hope you enjoy :)
